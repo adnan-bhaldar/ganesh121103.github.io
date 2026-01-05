@@ -10,7 +10,8 @@ animations for a better user experience.
 ---
 
 ## 🌐 Live Website
-🔗 **https://ganesh121103.github.io**
+
+[**🚀 Live Demo** ](https://ganesh121103.github.io)
 
 ---
 
@@ -42,11 +43,18 @@ new technologies through hands-on projects.
 
 ## 📁 Project Structure
 
+```
+My-Portfolio/
+├── assets/
+│     ├── css/
+│     │    ├── styles.css
+│     ├── img/
+│     │    ├── ProfilePhoto.jpeg
+│     ├── js/
+│     │    ├── script.js
 ├── index.html
-├── style.css
-├── Script.js
-├── ProfilePhoto.jpeg
 └── README.md
+```
 
 ---
 
@@ -60,6 +68,6 @@ More projects are available on my GitHub profile.
 ---
 
 ## 📬 Contact
-- **Email:** ganeshp121103@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/ganesh-patil-749b10318/  
-- **GitHub:** https://github.com/ganesh121103
+- [**Email**](mailto:ganeshp121103@gmail.com)
+- [**LinkedIn**](https://www.linkedin.com/in/ganesh-patil-749b10318)
+- [**Github**](https://github.com/ganesh121103)
