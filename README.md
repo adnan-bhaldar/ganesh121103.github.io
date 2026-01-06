@@ -11,7 +11,7 @@ animations for a better user experience.
 
 ## 🌐 Live Website
 
-[**🚀 Live Demo** ](https://ganesh121103.github.io)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ganesh121103.github.io)
 
 ---
 
@@ -24,11 +24,14 @@ new technologies through hands-on projects.
 ---
 
 ## 🛠️ Technologies Used
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- **Git & GitHub**
-- **GitHub Pages** (for deployment)
+### 🛠 Tech Stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -68,6 +71,7 @@ More projects are available on my GitHub profile.
 ---
 
 ## 📬 Contact
-- [**Email**](mailto:ganeshp121103@gmail.com)
-- [**LinkedIn**](https://www.linkedin.com/in/ganesh-patil-749b10318)
-- [**Github**](https://github.com/ganesh121103)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-patil-749b10318)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganesh121103)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshp121103@gmail.com)
